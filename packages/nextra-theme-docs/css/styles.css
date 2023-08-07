@@ -156,7 +156,7 @@ input[type='search'] {
 }
 
 .mdx-h2 {
-  @apply nx-mt-10 nx-border-b nx-pb-1 nx-text-3xl nx-border-neutral-200/70 contrast-more:nx-border-neutral-400 dark:nx-border-primary-100/10 contrast-more:dark:nx-border-neutral-400;
+  @apply nx-mt-10 nx-border-b nx-pb-1 nx-text-3xl nx-border-neutral-200/70 contrast-more:nx-border-neutral-400 dark:nx-border-primary-100/10 contrast-more:dark:nx-border-neutral-400 nx-font-semibold nx-tracking-tight nx-text-slate-900 dark:nx-text-slate-100;
 }
 
 .footnotes > h2 {
